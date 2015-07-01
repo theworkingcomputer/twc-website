@@ -59,6 +59,8 @@ app.add_url_rule('/dnamusic', 'dnamusic', view_func=views.dnamusic)
 # Python to Excel spreadsheet writer
 app.add_url_rule('/pyxcel', 'pyxcel', view_func=views.pyxcel)
 
+# Products entry page
+app.add_url_rule('/products', 'products', view_func=views.products)
 
 # 'About' page for the Working Computer
 app.add_url_rule('/about', 'about', view_func=views.about)

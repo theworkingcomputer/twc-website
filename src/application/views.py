@@ -69,6 +69,10 @@ def pyxcel():
     return render_template('pyxcel.html')
 
 
+def products():
+    return render_template('products.html')
+
+
 def timeandtravel():
     return render_template('timeandtravel.html')
 
@@ -96,4 +100,3 @@ def warmup():
 
     """
     return ''
-

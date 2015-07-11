@@ -1,4 +1,3 @@
-
 /* Main stylesheet */
 
 /* @section forms */
@@ -8,41 +7,41 @@
 /* Your customizations here */
 /* example:::: .navbar-brand { color: red !important; } */
 
-h2 { 
+h2 {
 	font-family: serif;
-	font-size: 2.75rem; 
+	font-size: 2.75rem;
 }
 .slogan {
-	font-size: 2.50rem;
+	font-size: 2.75rem;
 	font-family: sans-serif;
-	margin-left: 3.0rem;
+	margin-left: 0.0rem;
 	margin-top: 1.75rem;
 }
 .about-indent {
 	margin-left: 3.0rem;
 }
-.mast { 
-	margin-left: 5.0rem; 
+.mast {
+	margin-left: 5.0rem;
 	margin-bottom: 4.0rem;
 	margin-top: 4.0rem;
 	font-stretch: semi-expanded;
-	font-family: serif; 
+	font-family: serif;
 }
-.navbar-brand { 
+.navbar-brand {
 	font-size: 2.0rem;
-	color: #FCF87C; 
+	color: #FCF87C;
 }
-.dis-navbar-nav { 
-	font-size: 2.0rem; 
+.dis-navbar-nav {
+	font-size: 2.0rem;
 }
-.hoop-navbar-nav { 
-	font-size: 2.0rem; 
+.hoop-navbar-nav {
+	font-size: 2.0rem;
 }
-.web-navbar-nav { 
-	font-size: 2.0rem; 
+.web-navbar-nav {
+	font-size: 2.0rem;
 }
-.contact-navbar-nav { 
-	font-size: 2.0rem; 
+.contact-navbar-nav {
+	font-size: 2.0rem;
 }
 .blog-navbar-nav {
 	font-size: 2.0rem;
@@ -55,6 +54,6 @@ h2 {
 .spec-dropdown-menu { font-size: 125% !important; }
 .about-dropdown-menu { font-size: 125% !important; }
 
-.dropdown-toggle { 
+.dropdown-toggle {
 	color: #F4EC6C;
 	font-size: 115% !important; }
